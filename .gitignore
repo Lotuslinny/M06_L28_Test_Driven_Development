@@ -1,9 +1,3 @@
 node_modules
-add-one.js
-package.json
-add-one.test.js
 package-lock.json
-get-word-lengths.test.js
-get-word-lengths.js
-find-needle.test.js
-find-needle.js
+package.json
